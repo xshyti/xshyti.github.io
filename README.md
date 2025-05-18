@@ -1,40 +1,36 @@
-# xshyti.github.io
+# 🎓 Xhoi Shyti | Data Science Portfolio
 
-# 🏀 Predicting NBA Game Outcomes: Key Metrics for Regular-Season Wins
-
-> **Author:** Xhoi Shyti  
-> **Course:** DSC 680 – Portfolio Project 1: Logistic Regression Analysis of NBA Box Score Data
+Welcome to my data science portfolio. This repository showcases a collection of projects developed throughout my graduate studies and professional work. Each project combines statistical rigor, programming skills, and domain expertise to solve real-world problems using data.
 
 ---
 
-## 📘 Project Overview
+## 📌 Featured Projects
 
-This project uses over 70 years of historical NBA box score data to explore which performance metrics best predict whether a team will win or lose a game. Through exploratory data analysis (EDA), statistical modeling, and visualization, we identify the most impactful metrics and develop a predictive model using logistic regression.
+### 📊 1. **Predicting NBA Game Outcomes**
+**Status:** ✅ Completed  
+**Overview:**  
+This project analyzes over 70 years of NBA box score data to determine which performance metrics most strongly predict game outcomes. A logistic regression model was developed using core shooting statistics, achieving ~72% accuracy and highlighting the importance of shooting efficiency—especially free throw percentage.
 
----
+**Highlights:**  
+- Logistic regression model for binary classification (Win/Loss)  
+- FT%, FG%, and 3P% identified as top predictors  
+- Strategic implications for player development and game strategy  
+- Visual analysis included margin of victory distribution, heatmaps, and coefficient interpretation
 
-## 🎯 Objectives
-
-- Identify box score metrics most correlated with winning outcomes  
-- Develop an interpretable model to predict game results (Win/Loss)  
-- Provide strategic recommendations for player development and game planning  
-- Visualize key insights in an accessible, presentation-ready format
-
----
-
-## 📊 Data Source
-
-- **NBA Box Scores (1946–2023)**  
-  - Retrieved via the NBA Stats API using a custom Python script  
-  - Features include FG%, FT%, 3P%, PTS, FGA, rebounds, assists, turnovers, and final outcomes
+**Links:**  
+📂 [GitHub Repo](nba-game-metrics/) | 📄 [Whitepaper](presentation/Shyti_DSC680_Week_3_Milestone_2.pdf) | 📊 [Slide Deck](presentation/NBA_Predictive_Analysis_Presentation.pdf)
 
 ---
 
-## 🧠 Methodology
+### 📈 2. *(Placeholder for Future Project)*  
+_You can describe your second project here once available—such as customer segmentation, time series forecasting, fraud detection, etc._
 
-1. **Data Cleaning**: Removed inconsistencies across decades and standardized formats  
-2. **Exploratory Data Analysis (EDA)**:  
-   - Trends in shooting percentages (e.g., rise in 3P%)  
-   - Correlation heatmaps to identify predictive features
-3. **Feature Engineering**:  
-   - Focused on efficiency
+---
+
+### 🔍 3. *(Placeholder for Future Project)*  
+_Add a third project with a short description, status, and technical highlights._
+
+---
+
+## 📁 Repository Structure
+

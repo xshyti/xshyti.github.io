@@ -8,22 +8,45 @@
     body {
       font-family: Arial, sans-serif;
       margin: 0;
-      padding: 2rem;
       background-color: #f8f9fa;
       color: #333;
+    }
+
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 1rem 0;
       text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
     }
-    h1 {
+
+    nav a {
+      margin: 0 1rem;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      padding: 3rem 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
       color: #2c3e50;
+      margin-bottom: 1rem;
     }
-    p {
-      font-size: 1.1rem;
-      margin-top: 1rem;
-      margin-bottom: 2rem;
-    }
+
     .button {
       display: inline-block;
-      margin: 0.5rem;
+      margin: 0.5rem 0.5rem 1rem;
       background-color: #2c3e50;
       color: white;
       padding: 0.75rem 1.5rem;
@@ -32,18 +55,55 @@
       font-size: 1rem;
       transition: background-color 0.3s ease;
     }
+
     .button:hover {
       background-color: #1a252f;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #e9ecef;
     }
   </style>
 </head>
 <body>
-  <h1>Xhoi Shyti | Data Science Portfolio</h1>
-  <p>Welcome to my portfolio. Here you’ll find projects I’ve completed as part of my graduate studies, including machine learning models, exploratory data analyses, and interactive data visualizations.</p>
 
-  <a href="https://github.com/xshyti/xshyti.github.io" class="button" target="_blank">GitHub Repository (README)</a>
-  <a href="https://github.com/xshyti/xshyti.github.io/tree/main/project_nba_game_metrics" class="button" target="_blank">Project 1: NBA Game Metrics</a>
-  <a href="#" class="button">Project 2: Coming Soon</a>
-  <a href="#" class="button">Project 3: Coming Soon</a>
+  <header>
+    <h1>Xhoi Shyti | Data Science Portfolio</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Work/Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm a data science graduate student with a strong interest in machine learning, data engineering, and real-world problem solving. I enjoy creating models and visualizations that provide insight and drive decision-making, particularly in the sports and business analytics domains.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Work / Projects</h2>
+    <p>Below are select projects I've worked on. These highlight my experience with data preparation, exploratory analysis, model building, and communicating insights through visualizations and reports.</p>
+
+    <a href="https://github.com/xshyti/xshyti.github.io" class="button" target="_blank">GitHub Repository (README)</a>
+    <a href="https://github.com/xshyti/xshyti.github.io/tree/main/project_nba_game_metrics" class="button" target="_blank">Project 1: NBA Game Metrics</a>
+    <a href="#" class="button">Project 2: Coming Soon</a>
+    <a href="#" class="button">Project 3: Coming Soon</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>If you'd like to connect or learn more about my work, feel free to reach out:</p>
+    <p>Email: <a href="mailto:xshyti@gmail.com">xshyti@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/xshyti" target="_blank">github.com/xshyti</a></p>
+    <p>LinkedIn: <a href="#" target="_blank">[Add LinkedIn URL here]</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Xhoi Shyti. All rights reserved.
+  </footer>
+
 </body>
 </html>

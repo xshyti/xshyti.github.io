@@ -53,7 +53,7 @@ Using the UCI Adult Income dataset (Census 1994), this project applies machine l
 - Ethical Considerations regarding bias in demographic-based predictions  
 
 **Links:**  
-📂 [GitHub Repo](project_nba_game_metrics/) | 📄 [Whitepaper](project_nba_game_metrics/report) | 📊 [Slide Deck](project_nba_game_metrics/presentation/key_metrics_pres.pptx)
+📂 [GitHub Repo](project_income_level_data) | 📄 [Whitepaper](project_income_level_data/report) | 📊 [Slide Deck](project_income_level_data/presentation)
 
 ---
 

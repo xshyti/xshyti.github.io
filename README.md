@@ -28,7 +28,7 @@ This project uses MLB Statcast data from the 2023 and 2024 seasons to develop a 
 - Ethical Assessment (e.g., avoiding misuse in scouting)  
 
 **Links:**  
-📄 [Whitepaper](presentation/Shyti_DSC680_Week_12_Milestone_3.pdf)
+📂 [GitHub Repo](project_statcast_predictors) | 📄 [Whitepaper](project_nba_game_metrics/report) | 📊 [Slide Deck](project_nba_game_metrics/presentation/key_metrics_pres.pptx)
 
 ---
 
@@ -53,7 +53,7 @@ Using the UCI Adult Income dataset (Census 1994), this project applies machine l
 - Ethical Considerations regarding bias in demographic-based predictions  
 
 **Links:**  
-📄 [Whitepaper](presentation/Shyti_680_Week_8_Milestone_3.pdf)
+📂 [GitHub Repo](project_nba_game_metrics/) | 📄 [Whitepaper](project_nba_game_metrics/report) | 📊 [Slide Deck](project_nba_game_metrics/presentation/key_metrics_pres.pptx)
 
 ---
 

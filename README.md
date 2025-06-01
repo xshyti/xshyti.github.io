@@ -28,7 +28,7 @@ This project uses MLB Statcast data from the 2023 and 2024 seasons to develop a 
 - Ethical Assessment (e.g., avoiding misuse in scouting)  
 
 **Links:**  
-📂 [GitHub Repo](project_statcast_predictors) | 📄 [Whitepaper](project_nba_game_metrics/report) | 📊 [Slide Deck](project_nba_game_metrics/presentation/key_metrics_pres.pptx)
+📂 [GitHub Repo](project_statcast_predictors) | 📄 [Whitepaper](project_statcast_predictors/report) | 📊 [Slide Deck](project_statcast_predictors/presentation)
 
 ---
 

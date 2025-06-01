@@ -69,7 +69,7 @@ This project analyzes over 70 years of NBA box score data to determine which per
 - Visual analysis included margin of victory distribution, heatmaps, and coefficient interpretation
 
 **Links:**  
-📂 [GitHub Repo](nba-game-metrics/) | 📄 [Whitepaper](presentation/Shyti_DSC680_Week_3_Milestone_2.pdf) | 📊 [Slide Deck](presentation/NBA_Predictive_Analysis_Presentation.pdf)
+📂 [GitHub Repo](project_nba_game_metrics/) | 📄 [Whitepaper](presentation/Shyti_DSC680_Week_3_Milestone_2.pdf) | 📊 [Slide Deck](presentation/NBA_Predictive_Analysis_Presentation.pdf)
 
 ---
 

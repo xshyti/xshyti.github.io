@@ -70,12 +70,3 @@ This project analyzes over 70 years of NBA box score data to determine which per
 
 **Links:**  
 📂 [GitHub Repo](project_nba_game_metrics/) | 📄 [Whitepaper](project_nba_game_metrics/report) | 📊 [Slide Deck](project_nba_game_metrics/presentation/key_metrics_pres.pptx)
-
----
-
-## 📁 Repository Structure
-
-- `nba-game-metrics/`: Code and data for NBA analysis  
-- `presentation/`: Project whitepapers and presentation materials  
-- `statcast-home-run/`: Code for MLB home run prediction  
-- `adult-income-prediction/`: Code for income classification models  

@@ -61,8 +61,8 @@ This repository presents a data science project focused on identifying the core 
 
 ## 📎 Supporting Files
 
-- 📄 [Whitepaper PDF](project_nba_game_metrics/report)  
-- 📊 [Slide Deck (PowerPoint)](project_nba_game_metrics/presentation/key_metrics_latest.pptx)
+- 📄 [Whitepaper PDF](report)  
+- 📊 [Slide Deck (PowerPoint)](presentation/key_metrics_latest.pptx)
 
 ---
 
